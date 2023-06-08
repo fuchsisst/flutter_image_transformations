@@ -29,6 +29,8 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   image: ^4.0.17
+  syncfusion_flutter_charts: ^21.2.9
+  image_pixels: ^3.0.0
   flutter:
     sdk: flutter
 
